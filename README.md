@@ -1,7 +1,7 @@
 ### Olá! eu sou Renilton Mesquita 👋
 
 * 🖥️ Estou começando meu aprendizado em programação
-* 👨‍💻 Estou estudando atualmente JavaScript,Html,CSS
+* 👨‍💻 Estou estudando atualmente JavaScript,Html,CSS,Mysql
 * 📫 Meu E-mail de Contato reniltonmesquita36@gmail.com
 * 😎 Pronomes Ele/Dele
 * 👨‍🎓 Gosto de estudar e ler na horas vagas  
